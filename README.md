@@ -113,5 +113,10 @@ Adding advanced basketball metrics like Player Efficiency Rating (PER), Usage Ra
   
 2. Machine Learning:
 Implement predictive models to forecast LeBron's performance in future seasons based on past data.
+
 Conclusion
 This project offers a comprehensive look at LeBron James' illustrious basketball career, allowing users to visualize and explore his impact across different teams and seasons. Tableau’s powerful data visualization capabilities make it easy to extract meaningful insights from raw data, and this project serves as an excellent example of how data analytics can be used in sports to measure a player’s contribution and evolution over time.
+
+Acknowledgments
+Data sourced from Basketball Reference.
+Visualization and analysis were done using Tableau.
